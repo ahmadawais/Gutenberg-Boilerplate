@@ -18,9 +18,9 @@
 </table>
 
 # Gutenberg-Boilerplate
+![gutenberg-boilerpalte](https://i.imgur.com/WvJ0zvv.jpg)
 WordPress Gutenberg Boilerplate! A boilerplate to build WP Gutenberg blocks and stuff! ✊
 
-![gutenberg-boilerpalte](https://i.imgur.com/WvJ0zvv.jpg)
 
 ## ⚡️ Getting Started
 
