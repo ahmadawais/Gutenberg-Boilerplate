@@ -1,0 +1,14 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Editor CSS
+ *
+ * BLOCK: 02-basic-esnext block CSS for the editor.
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-gb-02-basic-esnext {
+	color: #000000;
+	background: #BADA55;
+	border: 0.2rem solid green;
+	padding: 2rem;
+}

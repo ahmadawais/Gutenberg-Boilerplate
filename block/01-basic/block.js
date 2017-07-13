@@ -4,8 +4,9 @@
  * Registering a basic block with Gutenberg.
  * Simple block, renders and saves the same content without any interactivity.
  *
- * Using inline styles - no external stylesheet needed.  Not recommended!
- * because all of these styles will appear in `post_content`.
+ * Styles:
+ *        editor.css — Editor styles for the block.
+ *        style.css — Frontend styles for the block.
  */
 ( function() {
 	var __ = wp.i18n.__;
@@ -35,7 +36,7 @@
 			return el(
 				'p', // Tag type.
 				{ className: props.className }, // The class="wp-block-gb-01-basic" : The class name is generated using the block's name prefixed with wp-block-, replacing the / namespace separator with a single -.
-				'Hello World! — from the editor.' // Content inside the tag.
+				'Hello World! — from the editor (01 Basic Block).' // Content inside the tag.
 			);
 		},
 
@@ -44,7 +45,7 @@
 			return el(
 				'p', // Tag type.
 				{ className: props.className }, // The class="wp-block-gb-01-basic" : The class name is generated using the block's name prefixed with wp-block-, replacing the / namespace separator with a single -.
-				'Hello World! — from the frontend.' // Content inside the tag.
+				'Hello World! — from the frontend (01 Basic Block).' // Content inside the tag.
 			);
 		},
 	} );

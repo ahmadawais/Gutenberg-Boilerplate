@@ -1,0 +1,14 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Frontend CSS
+ *
+ * BLOCK: 02-basic-esnext block CSS for the frontend.
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-gb-02-basic-esnext {
+	color: #000000;
+	background: lightblue;
+	border: 0.2rem solid blue;
+	padding: 2rem;
+}

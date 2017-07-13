@@ -43,3 +43,8 @@ if ( ! defined( 'GB_URL' ) ) {
  * BLOCK: Basic Block.
  */
 require_once( GB_DIR . '/block/01-basic/index.php' );
+
+/**
+ * BLOCK: Basic Block ESNext + Webpack Build Process.
+ */
+require_once( GB_DIR . '/block/02-basic-esnext/index.php' );
