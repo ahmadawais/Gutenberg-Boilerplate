@@ -1,0 +1,14 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Editor CSS
+ *
+ * BLOCK: 01-basic block CSS for the editor.
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-gb-01-basic {
+	color: #000000;
+	background: mistyrose;
+	border: 0.2rem solid red;
+	padding: 2rem;
+}

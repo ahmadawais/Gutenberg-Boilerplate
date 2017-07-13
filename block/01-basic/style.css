@@ -1,0 +1,14 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Frontend CSS
+ *
+ * BLOCK: 01-basic block CSS for the frontend.
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-gb-01-basic {
+	color: #000000;
+	background: gold;
+	border: 0.2rem solid goldenrod;
+	padding: 2rem;
+}
