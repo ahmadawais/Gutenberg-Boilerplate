@@ -76,9 +76,9 @@
 					className: props.className, // The class="wp-editor-gb-04-tweet".
 					onChange: onChangeContent, // Run the onChangeContent() function onChange of content.
 					value: content, // Content in our block. i.e. props.attributes.content;
-					focus: null, // Focus — should be truthy. i.e. props.focus;
+					focus: null, // Focus — should be truthy. i.e. props.focus; I have set it null to disable the toolbar. Hacky. There must be a better way.
 					onFocus: props.setFocus,
-					placeholder: __( 'Write a tweet…' ),
+					// placeholder: __( 'Write a tweet…' ), // Commented coz of a CSS issue probably will be fixed in future Gutenberg versions.
 				}
 			);
 		},
