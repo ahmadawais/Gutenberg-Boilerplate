@@ -1,0 +1,14 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Editor CSS
+ *
+ * BLOCK: 03-block-editable block CSS for the editor.
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-gb-03-block-editable {
+	color: #000000;
+	background: azure;
+	border: 0.2rem solid midnightblue;
+	padding: 2rem;
+}

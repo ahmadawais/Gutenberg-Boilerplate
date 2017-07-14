@@ -48,3 +48,8 @@ require_once( GB_DIR . '/block/01-basic/index.php' );
  * BLOCK: Basic Block ESNext + Webpack Build Process.
  */
 require_once( GB_DIR . '/block/02-basic-esnext/index.php' );
+
+/**
+ * BLOCK: Editable.
+ */
+require_once( GB_DIR . '/block/03-block-editable/index.php' );

@@ -9,9 +9,9 @@
  *        style.css — Frontend styles for the block.
  */
 ( function() {
-	var __ = wp.i18n.__;
-	var el = wp.element.createElement;
-	var registerBlockType = wp.blocks.registerBlockType;
+	var __ = wp.i18n.__; // The __() for internationalization.
+	var el = wp.element.createElement; // The wp.element.createElement() function to create elements.
+	var registerBlockType = wp.blocks.registerBlockType; // The registerBlockType() to register blocks.
 
 	/**
 	 * Register Basic Block.
