@@ -7,4 +7,3 @@ This is a basic custom Gutenberg block. Files explained below.
 - [`style.css`](https://github.com/ahmadawais/Gutenberg-Boilerplate/blob/master/block/01-basic/style.css) — Block CSS for the frontend.
 - [`index.php`](https://github.com/ahmadawais/Gutenberg-Boilerplate/blob/master/block/01-basic/index.php) — Enqueue block's assets for editor and the frontend.
 
-

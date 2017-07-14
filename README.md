@@ -31,7 +31,8 @@ Just [download](https://github.com/ahmadawais/Gutenberg-Boilerplate/archive/mast
 This is a `todo` list for this boilerplate which also states the progress of what you can learn from it.
 - [X] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/01-basic) — with custom CSS for editor and frontend.
 - [x] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/02-basic-esnext) — with `ES6` or `ESNext` and a `Webpack` build process.
-- [ ] Build a Custom Gutenberg Block — with `editable` content.
+- [x] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/03-block-editable) — with `editable` content.
+- [x] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/04-tweet) — to click Tweet the contents of that block.
 - [ ] Build a Custom Gutenberg Block — with `editable` content and custom `toolbars`.
 - [ ] Build a Custom Gutenberg Block — with a card layout `editable` + `non-ediatable` content (text + media).
 - [ ] Maybe build a video series on Gutenberg development!

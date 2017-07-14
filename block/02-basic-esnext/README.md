@@ -12,6 +12,7 @@ This is a basic custom Gutenberg block. Files explained below.
 - [`package.json`](https://github.com/ahmadawais/Gutenberg-Boilerplate/blob/master/block/02-basic-esnext/package.json) & [`package-lock.json`](https://github.com/ahmadawais/Gutenberg-Boilerplate/blob/master/block/02-basic-esnext/package-lock.json) — NPM related file for holding NPM related metadata and `build`/`dev` NPM scripts.
 - [`webpack.config.js`](https://github.com/ahmadawais/Gutenberg-Boilerplate/blob/master/block/02-basic-esnext/webpack.config.js) — Webpack configuration file.
 
+
 ## Getting started!
 
 Read the files explained above. All of the files are heavily inline documented. All you have to do is following:
