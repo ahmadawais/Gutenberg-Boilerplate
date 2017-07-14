@@ -1,0 +1,20 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Editor CSS
+ *
+ * BLOCK: 03-block-editable block CSS for the editor.
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-gb-04-tweet {
+	color: #ffffff !important;
+	background: #1da1f2;
+	border: none !important;
+	padding: 2rem;
+}
+
+.wp-block-gb-04-tweet a {
+	color: #ffffff !important;
+	border: none !important;
+	box-shadow: none;
+}

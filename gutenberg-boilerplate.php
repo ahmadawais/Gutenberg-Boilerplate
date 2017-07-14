@@ -53,3 +53,8 @@ require_once( GB_DIR . '/block/02-basic-esnext/index.php' );
  * BLOCK: Editable.
  */
 require_once( GB_DIR . '/block/03-block-editable/index.php' );
+
+/**
+ * BLOCK: Tweet.
+ */
+require_once( GB_DIR . '/block/04-tweet/index.php' );
