@@ -45,7 +45,7 @@ function gb_block_04_tweet_editor_assets() {
 
 
 // Only frontend.
-if ( ! is_admin() ) {
+// if ( ! is_admin() ) {
 	// Hook: Frontend assets.
 	add_action( 'enqueue_block_assets', 'gb_block_04_tweet_block_assets' );
 
@@ -65,4 +65,4 @@ if ( ! is_admin() ) {
 			filemtime( plugin_dir_path( __FILE__ ) . 'editor.css' ) // filemtime — Gets file modification time.
 		);
 	} // End fucntion gb_block_04_tweet_block_assets().
-} // End is_admin().
+// } // End is_admin().

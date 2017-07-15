@@ -78,7 +78,7 @@
 					value: content, // Content in our block. i.e. props.attributes.content;
 					focus: null, // Focus — should be truthy. i.e. props.focus; I have set it null to disable the toolbar. Hacky. There must be a better way.
 					onFocus: props.setFocus,
-					// placeholder: __( 'Write a tweet…' ), // Commented coz of a CSS issue probably will be fixed in future Gutenberg versions.
+					placeholder: __( 'Write a tweet…' ), // Commented coz of a CSS issue probably will be fixed in future Gutenberg versions.
 				}
 			);
 		},
