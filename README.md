@@ -45,3 +45,9 @@ This plugin is licensed under GPL v3.0. The content and documentation is the cop
 🙌 Hello, from the [WPCouple](https://WPCouple.com)! I ([Ahmad Awais](https://AhmadAwais.com/)) am a Full Stack Web Developer and a regular core contributor at WordPress. My wife ([Maedah Batool](https://MaedahBatool.com/)) is a WordPress Journalist/Dev/Core Contributor. If you'd like to get insights into professional full stack development, DevOps, WordPress community news, growing up a family, building and bootstrapping a business then subscribe to our premium newsletter called ↣ [The WordPress Takeaway](https://WPTakeaway.club)!
 
 
+---
+
+🎩 [**Support Ahmad's Open Source Projects!**](https://checkout.paddle.com/pay/8306906-chreb3732cce07a-e8919ead8a?display_mode=direct)
+
+If you'd like me to keep producing professional free and open source software. Consider [paying for an hour of my time](https://checkout.paddle.com/pay/8306906-chreb3732cce07a-e8919ead8a?display_mode=direct). I'll spend two hours on open source for each contribution.
+
