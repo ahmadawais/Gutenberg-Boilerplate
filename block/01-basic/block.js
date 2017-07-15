@@ -6,7 +6,7 @@
  *
  * Styles:
  *        editor.css — Editor styles for the block.
- *        style.css — Frontend styles for the block.
+ *        style.css  — Editor & Front end styles for the block.
  */
 ( function() {
 	var __ = wp.i18n.__; // The __() for internationalization.
