@@ -21,15 +21,14 @@
 ![gutenberg-boilerpalte](https://i.imgur.com/P5rw2pS.jpg)
 WordPress Gutenberg Boilerplate! A boilerplate to build WP Gutenberg blocks and stuff! ✊
 
-
 ## ⚡️ Getting Started
 
-Just [download](https://github.com/ahmadawais/Gutenberg-Boilerplate/archive/master.zip) and install this plugin in your WordPress website and read the source code!
+Install the [Gutenberg](https://wordpress.org/plugins/gutenberg/) WordPress plugin and then download and install [Gutenberg Boilerplate Zip](https://github.com/ahmadawais/Gutenberg-Boilerplate/archive/master.zip). Now read the source code! 💯
 
 ## ⚡️ What Can You Learn?
 
 This is a `todo` list for this boilerplate which also states the progress of what you can learn from it.
-- [X] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/01-basic) — with custom CSS for editor and frontend.
+- [X] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/01-basic) — with custom CSS for editor and front end.
 - [x] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/02-basic-esnext) — with `ES6` or `ESNext` and a `Webpack` build process.
 - [x] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/03-block-editable) — with `editable` content.
 - [x] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/04-tweet) — to click Tweet the contents of that block.
