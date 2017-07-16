@@ -35,6 +35,16 @@ This is a `todo` list for this boilerplate which also states the progress of wha
 - [ ] Build a Custom Gutenberg Block — with `editable` content and custom `toolbars`.
 - [ ] Build a Custom Gutenberg Block — with a card layout `editable` + `non-ediatable` content (text + media).
 - [ ] Maybe build a video series on Gutenberg development!
+- [ ] 
+
+## 🍩 GIF Me Some Proof!
+
+Sure thing! 
+![block1](https://i.imgur.com/wHKNSiq.gif)
+![block2](https://i.imgur.com/PVEqw9J.gif)
+![block3](https://i.imgur.com/bvbybZ8.gif)
+![block3](https://i.imgur.com/txszXIA.gif)
+
 
 ## ⚡️ License
 
