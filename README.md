@@ -67,7 +67,7 @@ This plugin is licensed under GPL v3.0. The content and documentation is the cop
 
 ---
 
-🎩 [**Support Ahmad's Open Source Projects!**](https://checkout.paddle.com/pay/8306906-chreb3732cce07a-e8919ead8a?display_mode=direct)
+🎩 [**Support Ahmad's Open Source Projects!**](https://pay.paddle.com/checkout/515568)
 
-If you'd like me to keep producing professional free and open source software. Consider [paying for an hour of my time](https://checkout.paddle.com/pay/8306906-chreb3732cce07a-e8919ead8a?display_mode=direct). I'll spend two hours on open source for each contribution.
+If you'd like me to keep producing professional free and open source software. Consider [paying for an hour of my time](https://pay.paddle.com/checkout/515568). I'll spend two hours on open source for each contribution.
 
