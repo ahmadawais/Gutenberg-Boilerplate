@@ -58,7 +58,7 @@ Sure thing!
 
 ## ⚡️ License
 
-This plugin is licensed under GPL v3.0. The content and documentation is the copyrighted to WGA — AhmadAwais.com
+This plugin is licensed under GPL v3.0. The content and documentation is copyrighted to WGA — AhmadAwais.com. I am still making up my mind with how Gutenberg will fit in the WordPress core. There are so many things which are both good and bad about it. So, instead of ranting about it, I wanted to do something more productive. I went ahead, studied the source code and received a lot of help from Gutenberg contributors (Matias Ventura, James Nylen, Riad Benguella, Andrew Duthie, Joen, etc.) to finally build this. I also wrote about it [Gutenberg Boilerplate For Third-Party Custom Blocks](https://ahmadawais.com/gutenberg-boilerplate/).
 
 ---
 
