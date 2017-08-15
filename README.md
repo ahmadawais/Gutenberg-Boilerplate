@@ -19,7 +19,7 @@
 
 # Gutenberg-Boilerplate
 ![gutenberg-boilerpalte](https://i.imgur.com/P5rw2pS.jpg)
-WordPress Gutenberg Boilerplate! A boilerplate to build WP Gutenberg blocks and stuff! ✊
+Build your first Gutenberg Editor block! A boilerplate to build WP Gutenberg blocks and stuff! ✊
 
 ## ⚡️ Getting Started
 
@@ -28,6 +28,7 @@ Install the [Gutenberg](https://wordpress.org/plugins/gutenberg/) WordPress plug
 ## ⚡️ What Can You Learn?
 
 This is a `todo` list for this boilerplate which also states the progress of what you can learn from it.
+- [x] BLOG POST: [Gutenberg Boilerplate For Third-Party Custom Blocks](https://ahmadawais.com/gutenberg-boilerplate/).
 - [X] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/01-basic) — with custom CSS for editor and front end.
 - [x] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/02-basic-esnext) — with `ES6` or `ESNext` and a `Webpack` build process.
 - [x] [Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/03-block-editable) — with `editable` content.
@@ -58,7 +59,9 @@ Sure thing!
 
 ## ⚡️ License & Attribution
 
-Code is licensed under GPL v3.0. The content and documentation is copyrighted to WGA — AhmadAwais.com. I am still making up my mind with how Gutenberg will fit in the WordPress core. There are so many things which are both good and bad about it. So, instead of ranting about it, I wanted to do something more productive. I went ahead, studied the source code and received a lot of help from [Gutenberg](https://github.com/wordpress/gutenberg) project and its contributors (Matias Ventura, James Nylen, Riad Benguella, Andrew Duthie, Joen, etc.) to finally build this. I also wrote about it [Gutenberg Boilerplate For Third-Party Custom Blocks](https://ahmadawais.com/gutenberg-boilerplate/).
+Code is licensed under GPL v3.0. The content and documentation is copyrighted to the WordPress Gutenberg team and WGA - AhmadAwais.com (especially the content in the blog post). I am still making up my mind with how Gutenberg will fit in the WordPress core. There are so many things which are both good and bad about it. So, instead of ranting about it, I wanted to do something more productive. I went ahead, studied the source code and received a lot of help from [Gutenberg](https://github.com/wordpress/gutenberg) project and its contributors (Matias Ventura, James Nylen, Riad Benguella, Andrew Duthie, Joen, etc.) to finally build this. I started with three different repos which now co-exist as the [official Gutenberg examples](https://github.com/WordPress/gutenberg-examples) and added more examples and documentation, using the Gutenberg code as a reference. Thanks to the Gutenberg team for a lot of help along the way.
+
+I also wrote about it [Gutenberg Boilerplate For Third-Party Custom Blocks](https://ahmadawais.com/gutenberg-boilerplate/).
 
 ---
 
