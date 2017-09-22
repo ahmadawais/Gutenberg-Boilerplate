@@ -21,7 +21,7 @@ add_action( 'enqueue_block_editor_assets', 'gb_block_04_tweet_editor_assets' );
  *
  * `wp-blocks`: includes block type registration and related functions.
  * `wp-element`: includes the WordPress Element abstraction for describing the structure of your blocks.
- * `wp-i18n`: To internationalize the block's. text.
+ * `wp-i18n`: To internationalize the block's text.
  *
  * @since 1.0.0
  */
@@ -41,7 +41,7 @@ function gb_block_04_tweet_editor_assets() {
 		array( 'wp-edit-blocks' ), // Dependency to include the CSS after it — CSS for wp-edit-blocks.
 		filemtime( plugin_dir_path( __FILE__ ) . 'editor.css' ) // filemtime — Gets file modification time.
 	);
-} // End fucntion gb_block_04_tweet_editor_assets().
+} // End function gb_block_04_tweet_editor_assets().
 
 
 // Only frontend.
@@ -64,5 +64,5 @@ if ( ! is_admin() ) {
 			array( 'wp-blocks' ), // Dependency to include the CSS after it.
 			filemtime( plugin_dir_path( __FILE__ ) . 'editor.css' ) // filemtime — Gets file modification time.
 		);
-	} // End fucntion gb_block_04_tweet_block_assets().
+	} // End function gb_block_04_tweet_block_assets().
 } // End is_admin().
