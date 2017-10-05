@@ -1,10 +1,3 @@
-# ⚡️ WordPress Gutenberg Boilerplate
-
-[![Gutenberg-Boilerplate](https://img.shields.io/badge/%F0%9F%94%A5%20Support%20Gutenberg%20Boilerplate-%E2%93%A6-brightgreen.svg?style=flat-square)](https://pay.paddle.com/checkout/515568) [![](https://img.shields.io/wordpress/v/akismet.svg?maxAge=2592000&style=flat-square&label=WordPress)](https://github.com/ahmadawais/Gutenberg-Boilerplate/) [![GitHub release](https://img.shields.io/github/release/ahmadawais/Gutenberg-Boilerplate.svg?maxAge=2592000&style=flat-square&label=Version)](https://github.com/ahmadawais/Gutenberg-Boilerplate/releases) [![](https://img.shields.io/github/stars/ahmadawais/Gutenberg-Boilerplate.svg?style=social&label=Star&maxAge=200&cache=buster)](https://github.com/ahmadawais/Gutenberg-Boilerplate/stargazers)
-
-![gutenberg-boilerpalte](https://i.imgur.com/P5rw2pS.jpg)
-Build your first Gutenberg Editor block! A boilerplate to build WP Gutenberg blocks and stuff! ✊
-
 <table width='100%'>
     <tr>
         <td align='left' width='100%' colspan='2'>
@@ -23,6 +16,13 @@ Build your first Gutenberg Editor block! A boilerplate to build WP Gutenberg blo
         </td>
     </tr>
 </table>
+
+# ⚡️ WordPress Gutenberg Boilerplate
+
+[![Gutenberg-Boilerplate](https://img.shields.io/badge/%F0%9F%94%A5%20Support%20Gutenberg%20Boilerplate-%E2%93%A6-brightgreen.svg?style=flat-square)](https://pay.paddle.com/checkout/515568) [![](https://img.shields.io/wordpress/v/akismet.svg?maxAge=2592000&style=flat-square&label=WordPress)](https://github.com/ahmadawais/Gutenberg-Boilerplate/) [![GitHub release](https://img.shields.io/github/release/ahmadawais/Gutenberg-Boilerplate.svg?maxAge=2592000&style=flat-square&label=Version)](https://github.com/ahmadawais/Gutenberg-Boilerplate/releases) [![](https://img.shields.io/github/stars/ahmadawais/Gutenberg-Boilerplate.svg?style=social&label=Star&maxAge=200&cache=buster)](https://github.com/ahmadawais/Gutenberg-Boilerplate/stargazers)
+
+![gutenberg-boilerpalte](https://i.imgur.com/P5rw2pS.jpg)
+Build your first Gutenberg Editor block! A boilerplate to build WP Gutenberg blocks and stuff! ✊
 
 ## ⚡️ Getting Started
 
