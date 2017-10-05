@@ -1,3 +1,8 @@
+<h1 align="center">⚡️ WordPress Gutenberg Boilerplate</h1>
+
+![gutenberg-boilerpalte](https://i.imgur.com/P5rw2pS.jpg)
+Build your first Gutenberg Editor block! A boilerplate to build WP Gutenberg blocks and stuff! ✊
+
 <table width='100%'>
     <tr>
         <td align='left' width='100%' colspan='2'>
@@ -16,10 +21,6 @@
         </td>
     </tr>
 </table>
-
-# Gutenberg-Boilerplate
-![gutenberg-boilerpalte](https://i.imgur.com/P5rw2pS.jpg)
-Build your first Gutenberg Editor block! A boilerplate to build WP Gutenberg blocks and stuff! ✊
 
 ## ⚡️ Getting Started
 
