@@ -29,7 +29,7 @@
 	 * @return {?WPBlock}          The block, if it has been successfully
 	 *                             registered; otherwise `undefined`.
 	 */
-	registerBlockType( 'gb/04-tweet', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
+	registerBlockType( 'gb/example-04-tweet', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
 		title: __( 'Tweet', 'GB' ), // Block title.
 		icon: 'twitter', // Block icon from Dashicons → https://developer.wordpress.org/resource/dashicons/.
 		category: 'common', // Block category — Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.

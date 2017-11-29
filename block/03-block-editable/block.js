@@ -28,7 +28,7 @@
 	 * @return {?WPBlock}          The block, if it has been successfully
 	 *                             registered; otherwise `undefined`.
 	 */
-	registerBlockType( 'gb/03-block-editable', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
+	registerBlockType( 'gb/example-03-block-editable', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
 		title: __( 'Editable', 'GB' ), // Block title.
 		icon: 'edit', // Block icon from Dashicons → https://developer.wordpress.org/resource/dashicons/.
 		category: 'common', // Block category — Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
