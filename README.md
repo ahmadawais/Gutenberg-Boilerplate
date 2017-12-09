@@ -42,7 +42,8 @@ This is a `todo` list for this boilerplate which also states the progress of wha
 
 ## 🍩 GIF Me Some Proof!
 
-Sure thing! 
+Sure thing! Here are a few examples of how you can use this WordPress plugin. When you install it after installing the Gutenberg plugin, this plugin gives you following four additional blocks.
+
 #### Block #1
 
 ![block1](https://i.imgur.com/wHKNSiq.gif)
