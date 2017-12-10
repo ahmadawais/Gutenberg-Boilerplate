@@ -28,6 +28,9 @@ Build your first Gutenberg Editor block! A boilerplate to build WP Gutenberg blo
 
 Install the [Gutenberg](https://wordpress.org/plugins/gutenberg/) WordPress plugin and then download and install [Gutenberg Boilerplate Zip](https://github.com/ahmadawais/Gutenberg-Boilerplate/archive/master.zip). Now read the source code! 💯
 
+To get started read the blog post I wrote → [Gutenberg Boilerplate For Third-Party Custom Blocks](https://ahmadawais.com/gutenberg-boilerplate/).
+
+
 ## ⚡️ What Can You Learn?
 
 This is a `todo` list for this boilerplate which also states the progress of what you can learn from it.
@@ -46,19 +49,19 @@ Sure thing! Here are a few examples of how you can use this WordPress plugin. Wh
 
 #### Block #1
 
-![block1](https://i.imgur.com/wHKNSiq.gif)
+![block1](http://on.ahmda.ws/oESb/c)
 
 #### Block #2
 
-![block2](https://i.imgur.com/PVEqw9J.gif)
+![block2](http://on.ahmda.ws/oFDW/c)
 
 #### Block #3
 
-![block3](https://i.imgur.com/bvbybZ8.gif)
+![block3](http://on.ahmda.ws/oF8M/c)
 
 #### Block #4
 
-![block3](https://i.imgur.com/txszXIA.gif)
+![block3](http://on.ahmda.ws/oFEA/c)
 
 
 ## ⚡️ License & Attribution
