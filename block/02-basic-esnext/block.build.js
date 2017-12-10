@@ -94,14 +94,14 @@ var registerBlockType = wp.blocks.registerBlockType; // Import registerBlockType
  *                             registered; otherwise `undefined`.
  */
 
-registerBlockType('gb/example-02-basic-esnext', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
+registerBlockType('gb/basic-esnext-02', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
   title: __('Basic ESNext', 'GB'), // Block title.
   icon: 'shield', // Block icon from Dashicons → https://developer.wordpress.org/resource/dashicons/.
   category: 'common', // Block category — Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
 
   // The "edit" property must be a valid function.
   edit: function edit(props) {
-    // Creates a <p class='wp-block-gb-01-basic'></p>.
+    // Creates a <p class='wp-block-gb-basic-esnext-02'></p>.
     return wp.element.createElement(
       'p',
       { className: props.className },
