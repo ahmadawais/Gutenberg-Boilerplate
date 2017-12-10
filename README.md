@@ -54,17 +54,27 @@ Sure thing! Here are a few examples of how you can use this WordPress plugin. Wh
 
 ### 📦 Block #1
 
+[Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/01-basic) — with custom CSS for editor and front end.
+
 ![block1](http://on.ahmda.ws/oESb/c)
 
 ### 📦 Block #2
+
+[Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/02-basic-esnext) — with `ES6` or `ESNext` and a `Webpack` build process.
+
+🎯 To try the ESNext block, i.e. `02-basic-esnext` go to it's directory i.e.  `gutenberg-boilerpalte/block/02-basic-esnext` and run `npm install`. Make sure you have [Node and npm installed](https://nodejs.org/en/download/). Then in the `02-basic-esnext` directory run `npm run dev` for development or `npm run build` to build the production code.
 
 ![block2](http://on.ahmda.ws/oFDW/c)
 
 ### 📦 Block #3
 
+[Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/03-block-editable) — with `editable` content.
+
 ![block3](http://on.ahmda.ws/oF8M/c)
 
 ### 📦 Block #4
+
+[Build a Custom Gutenberg Block](https://github.com/ahmadawais/Gutenberg-Boilerplate/tree/master/block/04-tweet) — to click Tweet the contents of that block.
 
 ![block3](http://on.ahmda.ws/oFEA/c)
 
