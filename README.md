@@ -26,9 +26,14 @@ Build your first Gutenberg Editor block! A boilerplate to build WP Gutenberg blo
 
 ## ⚡️ Getting Started
 
-Install the [Gutenberg](https://wordpress.org/plugins/gutenberg/) WordPress plugin and then download and install [Gutenberg Boilerplate Zip](https://github.com/ahmadawais/Gutenberg-Boilerplate/archive/master.zip). Now read the source code! 💯
 
-To get started read the blog post I wrote → [Gutenberg Boilerplate For Third-Party Custom Blocks](https://ahmadawais.com/gutenberg-boilerplate/).
+1. ✅ Install & activate the [Gutenberg](https://wordpress.org/plugins/gutenberg/) WordPress plugin
+2. ✅ Then download and install/activate this [Gutenberg Boilerplate plugin](https://github.com/ahmadawais/Gutenberg-Boilerplate/archive/master.zip) ← Just click this link to download.
+3. 🙊 All blocks added by this boilerplate are prefixed with `GB` as in Gutenberg-Boilerplate. Take a look at the GIFs below to see how to try 'em out.
+4. 🎯 To try the ESNext block, i.e. `02-basic-esnext` go to it's directory i.e.  `gutenberg-boilerpalte/block/02-basic-esnext` and run `npm install`. Make sure you have [Node and npm installed](https://nodejs.org/en/download/). Then in the `02-basic-esnext` directory run `npm run dev` for development or `npm run build` to build the production code.
+4. 💯 Now read the source code to learn how to build blocks. It's heavily documented. 
+
+> RECOMMENDED READING: Read the blog post I wrote → [Gutenberg Boilerplate For Third-Party Custom Blocks](https://ahmadawais.com/gutenberg-boilerplate/).
 
 
 ## ⚡️ What Can You Learn?
