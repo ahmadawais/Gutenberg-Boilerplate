@@ -28,8 +28,8 @@
 	 * @return {?WPBlock}          The block, if it has been successfully
 	 *                             registered; otherwise `undefined`.
 	 */
-	registerBlockType( 'gb/example-03-block-editable', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
-		title: __( 'Editable', 'GB' ), // Block title.
+	registerBlockType( 'gb/block-editable-03', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
+		title: __( 'GB Editable', 'GB' ), // Block title.
 		icon: 'edit', // Block icon from Dashicons → https://developer.wordpress.org/resource/dashicons/.
 		category: 'common', // Block category — Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
 
@@ -66,7 +66,7 @@
 			// The editable content.
 			return el(
 				Editable, // Editable React component.
-				{ // Creates <div class="wp-block-gb-03-block-editable"><p></p></div>
+				{ // Creates <div class="wp-block-gb-block-editable-03"><p></p></div>
 					tagName: 'p', // <p></p>.
 					className: props.className, // The class="wp-editor-gb-03-block-editable".
 					onChange: onChangeContent, // Run the onChangeContent() function onChange of content.
@@ -83,7 +83,7 @@
 
 			// The frontend content.
 			return el( 'p',  { // <p></p>.
-					className: props.className, // The class="wp-block-gb-03-block-editable".
+					className: props.className, // The class="wp-block-gb-block-editable-03".
 				},
 				content,
 			);
