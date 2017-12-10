@@ -24,7 +24,7 @@ const { registerBlockType } = wp.blocks; // Import registerBlockType() from wp.b
  *                             registered; otherwise `undefined`.
  */
 registerBlockType( 'gb/basic-esnext-02', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
-	title: __( 'Basic ESNext', 'GB' ), // Block title.
+	title: __( 'GB Basic ESNext', 'GB' ), // Block title.
 	icon: 'shield', // Block icon from Dashicons → https://developer.wordpress.org/resource/dashicons/.
 	category: 'common', // Block category — Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
 

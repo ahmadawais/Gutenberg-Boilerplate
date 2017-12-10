@@ -26,7 +26,7 @@
 	 *                             registered; otherwise `undefined`.
 	 */
 	registerBlockType( 'gb/basic-01', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
-		title: __( 'Basic', 'GB' ), // Block title.
+		title: __( 'GB Basic', 'GB' ), // Block title.
 		icon: 'shield-alt', // Block icon from Dashicons → https://developer.wordpress.org/resource/dashicons/.
 		category: 'common', // Block category — Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
 
