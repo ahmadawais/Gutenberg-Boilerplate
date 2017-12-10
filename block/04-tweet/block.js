@@ -29,7 +29,7 @@
 	 * @return {?WPBlock}          The block, if it has been successfully
 	 *                             registered; otherwise `undefined`.
 	 */
-	registerBlockType( 'gb/example-04-tweet', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
+	registerBlockType( 'gb/tweet-04', { // Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
 		title: __( 'GB Tweet', 'GB' ), // Block title.
 		icon: 'twitter', // Block icon from Dashicons → https://developer.wordpress.org/resource/dashicons/.
 		category: 'common', // Block category — Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
@@ -49,7 +49,11 @@
 		 * Example: Extract child nodes from a paragraph of rich text.
 		 */
 		attributes: {
-			content: children( 'a' ), // Content: Extract child nodes from an anchor tag's content.
+			content: {
+				type: 'array',
+				source: 'children',
+				selector: 'p',
+			}, // Content: Extract child nodes from an anchor tag's content.
 		},
 
 		// The "edit" property must be a valid function.
@@ -71,14 +75,14 @@
 			// The editable content.
 			return el(
 				Editable, // Editable React component.
-				{ // Creates <div class="wp-block-gb-04-tweet"><a></a></div>
+				{ // Creates <div class="wp-block-gb-tweet-04"><a></a></div>
 					tagName: 'a', // <a></a>.
 					className: props.className, // The class="wp-editor-gb-04-tweet".
 					onChange: onChangeContent, // Run the onChangeContent() function onChange of content.
 					value: content, // Content in our block. i.e. props.attributes.content;
 					focus: null, // Focus — should be truthy. i.e. props.focus; I have set it null to disable the toolbar. Hacky. There must be a better way.
 					onFocus: props.setFocus,
-					// placeholder: __( 'Write a tweet…' ), // Commented coz of a CSS issue probably will be fixed in future Gutenberg versions.
+					placeholder: __( 'Write a tweet…' ), // Commented coz of a CSS issue probably will be fixed in future Gutenberg versions.
 				}
 			);
 		},
@@ -101,12 +105,12 @@
 			var tweetURI = 'https://twitter.com/home?status=' + encodeURIComponent( tweetContent ); // Encodes a Uniform Resource Identifier (URI) component — https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent.
 			var attrs = {
 				href: tweetURI,
-				className: props.className, // Class would be → wp-block-gb-04-tweet
+				className: props.className, // Class would be → wp-block-gb-tweet-04
 				target: '_blank',
 			};
 
 			// The frontend content.
-			return el( 'a', attrs, tweetContent ); // Returns <a href="https://twitter.com/home?status={tweetContent}" class="wp-block-gb-04-tweet" target="_blank">{tweetContent}</a>.
+			return el( 'a', attrs, tweetContent ); // Returns <a href="https://twitter.com/home?status={tweetContent}" class="wp-block-gb-tweet-04" target="_blank">{tweetContent}</a>.
 		},
 	} );
 } )();
