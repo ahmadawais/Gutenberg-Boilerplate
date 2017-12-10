@@ -52,26 +52,26 @@ This is a `todo` list for this boilerplate which also states the progress of wha
 
 Sure thing! Here are a few examples of how you can use this WordPress plugin. When you install it after installing the Gutenberg plugin, this plugin gives you following four additional blocks.
 
-#### Block #1
+### 📦 Block #1
 
 ![block1](http://on.ahmda.ws/oESb/c)
 
-#### Block #2
+### 📦 Block #2
 
 ![block2](http://on.ahmda.ws/oFDW/c)
 
-#### Block #3
+### 📦 Block #3
 
 ![block3](http://on.ahmda.ws/oF8M/c)
 
-#### Block #4
+### 📦 Block #4
 
 ![block3](http://on.ahmda.ws/oFEA/c)
 
 
 ## ⚡️ License & Attribution
 
-Code is licensed under GPL v3.0. The content and documentation is copyrighted to the WordPress Gutenberg team and WGA - AhmadAwais.com (especially the content in the blog post). I am still making up my mind with how Gutenberg will fit in the WordPress core. There are so many things which are both good and bad about it. So, instead of ranting about it, I wanted to do something more productive. I went ahead, studied the source code and received a lot of help from [Gutenberg](https://github.com/wordpress/gutenberg) project and its contributors (Matias Ventura, James Nylen, Riad Benguella, Andrew Duthie, Joen, etc.) to finally build this. I started with three different repos which now co-exist as the [official Gutenberg examples](https://github.com/WordPress/gutenberg-examples) and added more examples and documentation, using the Gutenberg code as a reference. Thanks to the Gutenberg team for a lot of help along the way.
+Code is licensed under GPL v3.0. The content and documentation is copyrighted to the WordPress Gutenberg team and WGA - AhmadAwais.com (especially the content in the blog post). I am still making up my mind with how Gutenberg will fit in the WordPress core. There are so many things which are both good and bad about it. So, instead of ranting about it, I wanted to do something more productive. I went ahead, studied the source code and received a lot of help from [Gutenberg](https://github.com/wordpress/gutenberg) project and its contributors (Matias Ventura, James Nylen, Riad Benguella, Andrew Duthie, Joen, etc.) to finally build this. I started with three different repos which now co-exist as the Gutenberg examples and added more examples and documentation, using the Gutenberg code as a reference. Thanks to the Gutenberg team for a lot of help along the way.
 
 I also wrote about it [Gutenberg Boilerplate For Third-Party Custom Blocks](https://ahmadawais.com/gutenberg-boilerplate/).
 
