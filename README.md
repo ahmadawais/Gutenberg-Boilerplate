@@ -1,4 +1,8 @@
-🔰 I now recommend using 🔥 ⚛‏ 📦 [`create-guten-block` →](https://github.com/ahmadawais/create-guten-block)
+**IMPORTANT UPDATE:**
+
+🔰 Instead of this boilerplate, I now recommend using 🔥 ⚛‏ 📦 [`create-guten-block` →](https://github.com/ahmadawais/create-guten-block)
+
+---
 
 <table width='100%'>
     <tr>
