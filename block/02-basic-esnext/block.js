@@ -32,14 +32,14 @@ registerBlockType( 'gb/basic-esnext-02', { // Block name. Block names must be st
 	edit: function( props ) {
 		// Creates a <p class='wp-block-gb-basic-esnext-02'></p>.
 		return (
-			<p className={ props.className }>Hello World! — from the editor (02 Basic Block ESNext).</p>
+			<p className={ props.className }>123Hello World! — from the editor (02 Basic Block ESNext).</p>
 		);
 	},
 
 	// The "save" property must be specified and must be a valid function.
 	save: function( props ) {
 		return (
-			<p className={ props.className }>Hello World! — from the frontend (02 Basic Block ESNext).</p>
+			<p className={ props.className }>34Hello World! — from the frontend (02 Basic Block ESNext).</p>
 		);
 	},
 } );
