@@ -105,7 +105,7 @@ registerBlockType('gb/basic-esnext-02', { // Block name. Block names must be str
     return wp.element.createElement(
       'p',
       { className: props.className },
-      '123Hello World! \u2014 from the editor (02 Basic Block ESNext).'
+      'Hello World! \u2014 from the editor (02 Basic Block ESNext).'
     );
   },
 
@@ -114,7 +114,7 @@ registerBlockType('gb/basic-esnext-02', { // Block name. Block names must be str
     return wp.element.createElement(
       'p',
       { className: props.className },
-      '34Hello World! \u2014 from the frontend (02 Basic Block ESNext).'
+      'Hello World! \u2014 from the frontend (02 Basic Block ESNext).'
     );
   }
 });
