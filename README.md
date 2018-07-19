@@ -1,6 +1,6 @@
-**IMPORTANT UPDATE:**
+**PRE-DEPRECATION NOTICE**
 
-🔰 Instead of this boilerplate, I now recommend using 🔥 ⚛‏ 📦 [`create-guten-block` →](https://github.com/ahmadawais/create-guten-block)
+Instead of this deprecated and no longer-maintained boilerplate, I now recommend you to use my new toolkit called 🔥 ⚛‏ 📦 [`create-guten-block` →](https://github.com/ahmadawais/create-guten-block)
 
 ---
 
